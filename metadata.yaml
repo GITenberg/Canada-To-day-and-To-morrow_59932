@@ -1,5 +1,5 @@
 _repo: Canada-To-day-and-To-morrow_59932
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Canada Today and Tomorrow
 contributor:
   illustrator:
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '34675'
     url: http://www.gutenberg.org/2009/agents/34675
     wikipedia: https://en.wikipedia.org/wiki/Harold_Copping
+covers:
+- cover_type: archival
+  image_path: 59932-h/images/cover.jpg
 creator:
   author:
     agent_name: Copping, Arthur E. (Arthur Edward)
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '50699'
     url: http://www.gutenberg.org/2009/agents/50699
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59932#Canada-To-day-and-To-morrow
 gutenberg_issued: '2019-07-17'
 gutenberg_type: Text
 identifiers:
