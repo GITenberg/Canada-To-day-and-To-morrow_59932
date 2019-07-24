@@ -1,0 +1,42 @@
+_repo: Canada-To-day-and-To-morrow_59932
+_version: 0.0.1
+alternative_title: Canada Today and Tomorrow
+contributor:
+  illustrator:
+    agent_name: Copping, Harold
+    birthdate: 1863
+    deathdate: 1932
+    gutenberg_agent_id: '34675'
+    url: http://www.gutenberg.org/2009/agents/34675
+    wikipedia: https://en.wikipedia.org/wiki/Harold_Copping
+creator:
+  author:
+    agent_name: Copping, Arthur E. (Arthur Edward)
+    alias: Copping, A. E. (Arthur Edward)
+    birthdate: 1865
+    deathdate: 1941
+    gutenberg_agent_id: '50699'
+    url: http://www.gutenberg.org/2009/agents/50699
+description: ''
+gutenberg_issued: '2019-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59932'
+  lccn: '12004481'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1001'
+- !lcsh 'Canada'
+- GITenberg
+tableOfContents: 'The Dominion''s destiny -- Retrospect -- Quebec Province -- Niagara
+  and white coal -- The Lumber King -- Toronto and its Exhibition -- Manitoba: clues
+  to prairie farming -- Among the Dukhobors -- The history of the C.P.R. -- The new
+  Hudson Bay route -- Experiences of immigrants -- Winnipeg and the Centenary -- Key
+  to Canada''s mineral wealth: a warning to British capitalists -- New Saskatchewan
+  -- Indians and the missionary -- Northern Alberta -- New trans-continental lines
+  -- The story of the salmon fisheries -- British Columbia, and some reflections.'
+title: Canada To-day and To-morrow
+url: http://www.gutenberg.org/ebooks/59932
